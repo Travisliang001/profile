@@ -18,7 +18,7 @@ Restart your R session. If you use RStudio, use the menu item *Session \> Restar
 -   <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
 -   <kbd>Command + Shift + F10<kbd> (Mac OS).
 
-```{=html}
+```
 <!-- -->
 ```
     packageVersion("distill")
