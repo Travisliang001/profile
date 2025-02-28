@@ -1,7 +1,8 @@
 ---
 title: "Jiancong Liang"
 subtitle: "Software Engineer"
-description: "MS in CS @ GaTech🐝 | Generative AI | AI Enthusiast | Innovator in AI-driven solutions for a brighter future"
+description: "MS in CS @ GaTech🐝 | Generative AI | AI Enthusiast | <br>
+ Innovator in AI-driven solutions for a brighter future"
 date: 2025-02-20
 images:
   - img/featured.jpg
