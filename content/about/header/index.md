@@ -3,10 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
-
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+Greetings! I am Travis, a Software Developer based in the sunny city of Los Angeles, CA. I have a relentless passion for learning new technology and leveraging it to solve complex problems. I am constantly seeking to expand my skill set and thrive on collaborating with like-minded individuals on creative projects. Currently, I am pursuing a Master’s degree in Computer Science at the Georgia Institute of Technology.
