@@ -15,5 +15,6 @@ hugo_stats.json
 hugo.exe
 hugo.darwin
 hugo.linux
-
+themes\hugo-apero\*
+hugo-encrypt
 # End of https://www.toptal.com/developers/gitignore/api/hugo
