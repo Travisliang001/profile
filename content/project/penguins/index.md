@@ -5,7 +5,7 @@ excerpt: "Grid is the very first CSS module created specifically to solve the la
 date: 2019-07-02
 author: "Eric Anderson"
 featured: true
-draft: false
+draft: true
 tags:
 - hugo-site
 categories:

@@ -90,9 +90,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/Travisliang001"
   [[params.social]]
-      icon      = "facebook" # icon name without the 'fa-'
+      icon      = "youtube" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = ""
+      url       = "https://www.youtube.com/@travisliang1030"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -130,11 +130,7 @@ enableEmoji = true
     title = "A collection"
     url = "/collection/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+
     
   # Configure footer  
   [[menu.footer]]

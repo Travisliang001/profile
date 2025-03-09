@@ -1,7 +1,7 @@
 ---
 title: "A Trick to Never Confuse Cache Penetration and Cache Breakdown Again"
 subtitle: "In Redis, there are two concepts: Cache Breakdown and Cache Penetration. Because their names are similar, it’s easy to mix them up. However, this article provides a simple memory trick to help you clearly distinguish between the two."
-excerpt: ""
+excerpt: "Let's take a quick look at the difference between Cache Penetration and Cache Breakdown."
 date: 2024-06-28
 author: "Travis Liang"
 draft: false
